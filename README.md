@@ -92,7 +92,7 @@ Feel free to fork the repository, create pull requests, or suggest better soluti
 
 If you have any suggestions or want to discuss solutions, feel free to reach out:
 - **Email:** rishabh.agarwal1124@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rishaba/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rishaba/)
 
 ---
 
